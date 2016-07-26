@@ -13,7 +13,7 @@ npm install
 rename the config/config.js.sample to config/config.js and update with your keys for Sentry,New-relic,Jetty API
 
 #Running the App
-In the root directory,
+In the root directory,to run the server
 
  ```
  npm start
