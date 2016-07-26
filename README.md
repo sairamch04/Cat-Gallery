@@ -6,18 +6,24 @@
 #Requirement
 
 To install dependencies for project run this command
-```npm install```
+```
+npm install
+```
 
 rename the config/config.js.sample to config/config.js and update with your keys for Sentry,New-relic,Jetty API
 
 #Running the App
 In the root directory,
 
- ```npm start```
+ ```
+ npm start
+ ```
  
 On the web browser open
 If 8000 is configured as serverPort in config file
 
-```127.0.0.1:8000```
+ ```
+ 127.0.0.1:8000
+ ```
 
 
