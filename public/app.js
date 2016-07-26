@@ -1,0 +1,1 @@
+var galleryApp = angular.module('gallery', ['infinite-scroll']);

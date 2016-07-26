@@ -1,0 +1,28 @@
+{
+  "name": "relic_sentry",
+  "version": "1.0.0",
+  "description": "Galler app - Tracked by New-relic and sentry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sairam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "destroy": "^1.0.4",
+    "express": "4.14.0",
+    "http-errors": "^1.5.0",
+    "mkdirp": "0.5.1",
+    "ms": "^0.7.1",
+    "newrelic": "^1.28.3",
+    "raven": "^0.11.0",
+    "raven-js": "^3.2.1",
+    "request": "2.73.0",
+    "winston": "2.2.0",
+    "winston-sentry": "0.1.4"
+  },
+  "devDependencies": {
+    "eslint": "3.0.1"
+  }
+}

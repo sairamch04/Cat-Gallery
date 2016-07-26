@@ -1,0 +1,11 @@
+//These are just sample keys. Replace it with valid keys
+
+exports.jettyApiKey  = 'v3gtztmykkkkkpq4qr'; 
+ 
+exports.newrelic = {
+    appName: 'gallery',
+    key: '276afa68ed4kkkkkksdkdke7a17988b4e'
+};
+
+exports.sentryDsn = 'https://blabla@app.getsentry.com/87827';
+exports.serverPort = 8000;
