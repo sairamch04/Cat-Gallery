@@ -25,5 +25,9 @@ If 8000 is configured as serverPort in config file
  ```
  127.0.0.1:8000
  ```
+ Demo at :
+ ```
+  http://ec2-52-66-78-136.ap-south-1.compute.amazonaws.com:8000/
+  ```
 
 
